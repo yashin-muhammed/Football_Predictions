@@ -104,6 +104,22 @@
                 "Denmark": "0",
                 "Argentina": "2",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "3",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "0",
+                "Morocco": "0",
+                "Croatia": "0",
+                "Canada": "2",
+                "Spain": "1",
+                "Germany": "1"
             }
         },
         "Najeem A V": {
@@ -210,6 +226,22 @@
                 "Denmark": "0",
                 "Argentina": "1",
                 "Mexico": "2"
+            },
+            "MatchDay-8": {
+                "Japan": "1",
+                "Costa Rica": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "3",
+                "Morocco": "0",
+                "Croatia": "2",
+                "Canada": "0",
+                "Spain": "1",
+                "Germany": "0"
             }
         },
         "Ramzeen A V": {
@@ -316,6 +348,22 @@
                 "Denmark": "1",
                 "Argentina": "2",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "1",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "1",
+                "Croatia": "1",
+                "Canada": "0",
+                "Spain": "2",
+                "Germany": "1"
             }
         },
         "Nashab": {
@@ -422,6 +470,22 @@
                 "Denmark": "2",
                 "Argentina": "2",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "1",
+                "Croatia": "1",
+                "Canada": "0",
+                "Spain": "1",
+                "Germany": "2"
             }
         },
         "Adarsh": {
@@ -528,6 +592,22 @@
                 "Denmark": "0",
                 "Argentina": "0",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "1",
+                "Costa Rica": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "3",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "0",
+                "Spain": "1",
+                "Germany": "2"
             }
         },
         "Shammas": {
@@ -634,6 +714,22 @@
                 "Denmark": "1",
                 "Argentina": "1",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "1",
+                "Morocco": "0",
+                "Croatia": "3",
+                "Canada": "0",
+                "Spain": "3",
+                "Germany": "1"
             }
         },
         "Nazim Nasar": {
@@ -740,6 +836,22 @@
                 "Denmark": "0",
                 "Argentina": "1",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "1",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "3",
+                "Canada": "1",
+                "Spain": "2",
+                "Germany": "1"
             }
         },
         "Muhammed Hadi": {
@@ -846,6 +958,22 @@
                 "Denmark": "1",
                 "Argentina": "1",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "1",
+                "Spain": "0",
+                "Germany": "1"
             }
         },
         "Harin Mansoor": {
@@ -952,6 +1080,22 @@
                 "Denmark": "0",
                 "Argentina": "2",
                 "Mexico": "2"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "3",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "0",
+                "Spain": "3",
+                "Germany": "2"
             }
         },
         "Miqdad": {
@@ -1058,6 +1202,22 @@
                 "Denmark": "0",
                 "Argentina": "2",
                 "Mexico": "2"
+            },
+            "MatchDay-8": {
+                "Japan": "1",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "3",
+                "Spain": "2",
+                "Germany": "2"
             }
         },
         "Hamras": {
@@ -1164,6 +1324,22 @@
                 "Denmark": "2",
                 "Argentina": "3",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "2",
+                "Canada": "1",
+                "Spain": "3",
+                "Germany": "1"
             }
         },
         "Afsal Ali": {
@@ -1270,6 +1446,22 @@
                 "Denmark": "1",
                 "Argentina": "4",
                 "Mexico": "1"
+            },
+            "MatchDay-8": {
+                "Japan": "1",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "2",
+                "Spain": "3",
+                "Germany": "1"
             }
         },
         "Amal": {
@@ -1376,6 +1568,22 @@
                 "Denmark": "1",
                 "Argentina": "1",
                 "Mexico": "2"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "0",
+                "Spain": "1",
+                "Germany": "2"
             }
         },
         "Hafis": {
@@ -1476,6 +1684,22 @@
                 "Denmark": "0",
                 "Argentina": "1",
                 "Mexico": "1"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "0",
+                "Spain": "2",
+                "Germany": "1"
             }
         },
         "Lathif": {
@@ -1559,6 +1783,22 @@
                 "Denmark": "1",
                 "Argentina": "3",
                 "Mexico": "1"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "2",
+                "Canada": "0",
+                "Spain": "3",
+                "Germany": "2"
             }
         },
         "Naeem": {
@@ -1767,6 +2007,22 @@
                 "Denmark": "0",
                 "Argentina": "2",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "3",
+                "Canada": "1",
+                "Spain": "1",
+                "Germany": "2"
             }
         },
         "Muhammed Yashin": {
@@ -1873,6 +2129,22 @@
                 "Denmark": "1",
                 "Argentina": "3",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "1",
+                "Morocco": "0",
+                "Croatia": "0",
+                "Canada": "2",
+                "Spain": "1",
+                "Germany": "0"
             }
         },
         "Sagul": {
@@ -1979,6 +2251,22 @@
                 "Denmark": "1",
                 "Argentina": "2",
                 "Mexico": "2"
+            },
+            "MatchDay-8": {
+                "Japan": "1",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "3",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "0",
+                "Spain": "2",
+                "Germany": "1"
             }
         },
         "Abhijit C V": {
@@ -2085,6 +2373,22 @@
                 "Denmark": "1",
                 "Argentina": "2",
                 "Mexico": "0"
+            },
+            "MatchDay-8": {
+                "Japan": "1",
+                "Costa Rica": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "2",
+                "Canada": "0",
+                "Spain": "0",
+                "Germany": "1"
             }
         },
         "Sumil CK": {
@@ -2174,6 +2478,22 @@
                 "Denmark": "0",
                 "Argentina": "1",
                 "Mexico": "1"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "2",
+                "Morocco": "0",
+                "Croatia": "1",
+                "Canada": "1",
+                "Spain": "1",
+                "Germany": "2"
             }
         },
         "Nived": {
@@ -2274,6 +2594,22 @@
                 "Denmark": "1",
                 "Argentina": "3",
                 "Mexico": "1"
+            },
+            "MatchDay-8": {
+                "Japan": "2",
+                "Costa Rica": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Belgium": "1",
+                "Morocco": "0",
+                "Croatia": "2",
+                "Canada": "1",
+                "Spain": "2",
+                "Germany": "2"
             }
         }
     }

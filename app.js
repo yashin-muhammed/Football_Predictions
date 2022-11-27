@@ -5,8 +5,7 @@ var cookieParser = require('cookie-parser');
 const sessions = require('express-session');
 var logger = require('morgan');
 
-let PORT=4050;
-let hostname="0.0.0.0";
+let PORT=process.env.PORT||4050;
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/user/users');
 var leagueRouter = require('./routes/leagues/leagues');
@@ -66,7 +65,7 @@ app.use(function(err, req, res, next) {
   console.log(err)
 });
 
-app.listen(PORT, hostname,() =>{
+app.listen(PORT,() =>{
   console.log(`Server running at http://${hostname}:${PORT}/`);
 });
 
