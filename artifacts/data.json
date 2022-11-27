@@ -1,0 +1,2280 @@
+{
+    "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a": {
+        "Muhammed Yashin": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "0",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "3",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "4",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "3",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "1",
+                "Croatia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "2",
+                "Japan": "1",
+                "Spain": "0",
+                "Costa Rica": "1",
+                "Belgium": "2",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "2",
+                "Cameroon": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "1",
+                "Portugal": "3",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Serbia": "2",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "2",
+                "Netherlands": "1",
+                "Ecuador": "0",
+                "England": "3",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "0",
+                "Soudi Arabia": "0",
+                "France": "2",
+                "Denmark": "0",
+                "Argentina": "2",
+                "Mexico": "0"
+            }
+        },
+        "Najeem A V": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "2",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "3",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "5",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "1",
+                "Australia": "2",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "1",
+                "Spain": "3",
+                "Costa Rica": "0",
+                "Belgium": "4",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "2",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "0",
+                "Portugal": "3",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "1",
+                "Netherlands": "2",
+                "Ecuador": "1",
+                "England": "2",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "2",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "3",
+                "Soudi Arabia": "0",
+                "France": "2",
+                "Denmark": "0",
+                "Argentina": "1",
+                "Mexico": "2"
+            }
+        },
+        "Ramzeen A V": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "2",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "3",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "4",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "3",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "4",
+                "Japan": "1",
+                "Spain": "2",
+                "Costa Rica": "1",
+                "Belgium": "3",
+                "Canada": "1",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "2",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "1",
+                "Portugal": "3",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "2",
+                "Netherlands": "1",
+                "Ecuador": "0",
+                "England": "3",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "2",
+                "Soudi Arabia": "0",
+                "France": "3",
+                "Denmark": "1",
+                "Argentina": "2",
+                "Mexico": "0"
+            }
+        },
+        "Nashab": {
+            "MatchDay-1": {
+                "Qatar": "2",
+                "Equador": "1",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "3",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "3",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "4",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "3",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "1",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "1",
+                "Spain": "2",
+                "Costa Rica": "0",
+                "Belgium": "3",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "2",
+                "Cameroon": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "1",
+                "Portugal": "4",
+                "Ghana": "0",
+                "Brazil": "4",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "2",
+                "Netherlands": "3",
+                "Ecuador": "1",
+                "England": "4",
+                "USA": "1",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "2",
+                "Soudi Arabia": "1",
+                "France": "3",
+                "Denmark": "2",
+                "Argentina": "2",
+                "Mexico": "0"
+            }
+        },
+        "Adarsh": {
+            "MatchDay-1": {
+                "Qatar": "1",
+                "Equador": "2",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "3",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "2",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "4",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "0",
+                "Spain": "3",
+                "Costa Rica": "0",
+                "Belgium": "2",
+                "Canada": "1",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "1",
+                "Portugal": "4",
+                "Ghana": "0",
+                "Brazil": "4",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "3",
+                "Netherlands": "2",
+                "Ecuador": "0",
+                "England": "4",
+                "USA": "1",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "2",
+                "Australia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "2",
+                "Soudi Arabia": "0",
+                "France": "4",
+                "Denmark": "0",
+                "Argentina": "0",
+                "Mexico": "0"
+            }
+        },
+        "Shammas": {
+            "MatchDay-1": {
+                "Qatar": "1",
+                "Equador": "0",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "3",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "2",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "",
+                "Croatia": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "1",
+                "Spain": "2",
+                "Costa Rica": "1",
+                "Belgium": "3",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "2",
+                "Portugal": "3",
+                "Ghana": "0",
+                "Brazil": "4",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "1",
+                "Senegal": "2",
+                "Netherlands": "2",
+                "Ecuador": "0",
+                "England": "5",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "1",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "2",
+                "France": "3",
+                "Denmark": "1",
+                "Argentina": "1",
+                "Mexico": "0"
+            }
+        },
+        "Nazim Nasar": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "1",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "3",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "4",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "4",
+                "Japan": "1",
+                "Spain": "3",
+                "Costa Rica": "1",
+                "Belgium": "4",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "",
+                "Cameroon": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "0",
+                "South Korea": "0",
+                "Portugal": "2",
+                "Ghana": "1",
+                "Brazil": "3",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "2",
+                "Netherlands": "3",
+                "Ecuador": "1",
+                "England": "3",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "2",
+                "Soudi Arabia": "1",
+                "France": "3",
+                "Denmark": "0",
+                "Argentina": "1",
+                "Mexico": "0"
+            }
+        },
+        "Muhammed Hadi": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "0",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "2",
+                "Netherlands": "4",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "1",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "2",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "2",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "2",
+                "Japan": "3",
+                "Spain": "2",
+                "Costa Rica": "1",
+                "Belgium": "0",
+                "Canada": "1",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "1",
+                "South Korea": "2",
+                "Portugal": "2",
+                "Ghana": "0",
+                "Brazil": "2",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "0",
+                "Netherlands": "2",
+                "Ecuador": "0",
+                "England": "3",
+                "USA": "1",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "1",
+                "Australia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "0",
+                "France": "1",
+                "Denmark": "1",
+                "Argentina": "1",
+                "Mexico": "0"
+            }
+        },
+        "Harin Mansoor": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "2",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "3",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "3",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "4",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "1",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "1",
+                "Spain": "2",
+                "Costa Rica": "0",
+                "Belgium": "3",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "3",
+                "Cameroon": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "2",
+                "Portugal": "3",
+                "Ghana": "1",
+                "Brazil": "5",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "1",
+                "Senegal": "3",
+                "Netherlands": "4",
+                "Ecuador": "1",
+                "England": "5",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "1",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "3",
+                "France": "4",
+                "Denmark": "0",
+                "Argentina": "2",
+                "Mexico": "2"
+            }
+        },
+        "Miqdad": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "4",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "3",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "1",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "5",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "3",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "2",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "1",
+                "Spain": "1",
+                "Costa Rica": "1",
+                "Belgium": "4",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "1",
+                "Portugal": "4",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "3",
+                "Netherlands": "2",
+                "Ecuador": "1",
+                "England": "3",
+                "USA": "1",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "3",
+                "France": "3",
+                "Denmark": "0",
+                "Argentina": "2",
+                "Mexico": "2"
+            }
+        },
+        "Hamras": {
+            "MatchDay-1": {
+                "Qatar": "2",
+                "Equador": "1",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "3",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "3",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "1",
+                "Australia": "2",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "1",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "4",
+                "Japan": "0",
+                "Spain": "3",
+                "Costa Rica": "1",
+                "Belgium": "3",
+                "Canada": "1",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "0",
+                "Portugal": "0",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "1",
+                "Senegal": "2",
+                "Netherlands": "2",
+                "Ecuador": "1",
+                "England": "4",
+                "USA": "1",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "1",
+                "France": "1",
+                "Denmark": "2",
+                "Argentina": "3",
+                "Mexico": "0"
+            }
+        },
+        "Afsal Ali": {
+            "MatchDay-1": {
+                "Qatar": "2",
+                "Equador": "1",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "",
+                "Iran": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "3",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "2",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "2",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "2",
+                "Japan": "1",
+                "Spain": "1",
+                "Costa Rica": "1",
+                "Belgium": "3",
+                "Canada": "1",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "",
+                "Cameroon": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "1",
+                "South Korea": "1",
+                "Portugal": "3",
+                "Ghana": "1",
+                "Brazil": "2",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "1",
+                "Senegal": "0",
+                "Netherlands": "1",
+                "Ecuador": "1",
+                "England": "2",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "1",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "1",
+                "France": "3",
+                "Denmark": "1",
+                "Argentina": "4",
+                "Mexico": "1"
+            }
+        },
+        "Amal": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "1",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "0",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "1",
+                "Soudi Arabia": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "2",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "1",
+                "Spain": "0",
+                "Costa Rica": "1",
+                "Belgium": "3",
+                "Canada": "2",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "0",
+                "Portugal": "2",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "0",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "1",
+                "Netherlands": "2",
+                "Ecuador": "0",
+                "England": "2",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "0",
+                "Soudi Arabia": "1",
+                "France": "3",
+                "Denmark": "1",
+                "Argentina": "1",
+                "Mexico": "2"
+            }
+        },
+        "Hafis": {
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "1",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "3",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "1",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "2",
+                "Japan": "1",
+                "Spain": "0",
+                "Costa Rica": "0",
+                "Belgium": "3",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "0",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "0",
+                "Portugal": "2",
+                "Ghana": "1",
+                "Brazil": "2",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "2",
+                "Netherlands": "1",
+                "Ecuador": "0",
+                "England": "2",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "0",
+                "Soudi Arabia": "1",
+                "France": "2",
+                "Denmark": "0",
+                "Argentina": "1",
+                "Mexico": "1"
+            }
+        },
+        "Lathif": {
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "2",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "4",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "2",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "1",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "0",
+                "Spain": "2",
+                "Costa Rica": "0",
+                "Belgium": "2",
+                "Canada": "1",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "2",
+                "Cameroon": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "1",
+                "South Korea": "2",
+                "Portugal": "3",
+                "Ghana": "1",
+                "Brazil": "3",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "1",
+                "France": "2",
+                "Denmark": "1",
+                "Argentina": "3",
+                "Mexico": "1"
+            }
+        },
+        "Naeem": {
+            "MatchDay-2": {
+                "England": "",
+                "Iran": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "2",
+                "USA": "",
+                "Wales": "",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "3",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "",
+                "Tunisia": "",
+                "Mexico": "",
+                "Poland": "",
+                "France": "3",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "1",
+                "Croatia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "1",
+                "Spain": "2",
+                "Costa Rica": "1",
+                "Belgium": "2",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "",
+                "Cameroon": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "1",
+                "South Korea": "0",
+                "Portugal": "1",
+                "Ghana": "1",
+                "Brazil": "4",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "1",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "2",
+                "Netherlands": "2",
+                "Ecuador": "0",
+                "England": "2",
+                "USA": "1",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "1",
+                "Australia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "0",
+                "Soudi Arabia": "1",
+                "France": "4",
+                "Denmark": "1",
+                "Argentina": "2",
+                "Mexico": "1"
+            }
+        }
+    },
+    "181ff0c8-ee95-49e5-85dc-a567d3e64de9": {
+        "Vaishak": {
+            "MatchDay-1": {
+                "Qatar": "1",
+                "Equador": "3",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "2",
+                "USA": "1",
+                "Wales": "1",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "2",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "1",
+                "Tunisia": "0",
+                "Mexico": "2",
+                "Poland": "1",
+                "France": "3",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "1",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "0",
+                "Spain": "3",
+                "Costa Rica": "1",
+                "Belgium": "2",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "0",
+                "Portugal": "1",
+                "Ghana": "1",
+                "Brazil": "1",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "1",
+                "Netherlands": "1",
+                "Ecuador": "1",
+                "England": "4",
+                "USA": "1",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "1",
+                "Australia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "2",
+                "Soudi Arabia": "1",
+                "France": "2",
+                "Denmark": "0",
+                "Argentina": "2",
+                "Mexico": "0"
+            }
+        },
+        "Muhammed Yashin": {
+            "MatchDay-1": {
+                "Qatar": "0",
+                "Equador": "1",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "2",
+                "USA": "0",
+                "Wales": "0",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "3",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "1",
+                "Tunisia": "2",
+                "Mexico": "0",
+                "Poland": "0",
+                "France": "4",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "2",
+                "Japan": "1",
+                "Spain": "0",
+                "Costa Rica": "0",
+                "Belgium": "2",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "2",
+                "Cameroon": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "1",
+                "Portugal": "2",
+                "Ghana": "0",
+                "Brazil": "2",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "3",
+                "Netherlands": "2",
+                "Ecuador": "1",
+                "England": "3",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "3",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "1",
+                "France": "3",
+                "Denmark": "1",
+                "Argentina": "3",
+                "Mexico": "0"
+            }
+        },
+        "Sagul": {
+            "MatchDay-1": {
+                "Qatar": "1",
+                "Equador": "0",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "2",
+                "USA": "0",
+                "Wales": "1",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "3",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "2",
+                "Tunisia": "1",
+                "Mexico": "1",
+                "Poland": "3",
+                "France": "3",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "0",
+                "Spain": "2",
+                "Costa Rica": "0",
+                "Belgium": "3",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "0",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "0",
+                "Portugal": "0",
+                "Ghana": "1",
+                "Brazil": "3",
+                "Serbia": "0",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "0",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "0",
+                "Netherlands": "2",
+                "Ecuador": "1",
+                "England": "4",
+                "USA": "1",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "3",
+                "Soudi Arabia": "1",
+                "France": "3",
+                "Denmark": "1",
+                "Argentina": "2",
+                "Mexico": "2"
+            }
+        },
+        "Abhijit C V": {
+            "MatchDay-1": {
+                "Qatar": "1",
+                "Equador": "2",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "1",
+                "USA": "0",
+                "Wales": "1",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "5",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "1",
+                "Tunisia": "1",
+                "Mexico": "2",
+                "Poland": "3",
+                "France": "2",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "0",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "1",
+                "Japan": "1",
+                "Spain": "2",
+                "Costa Rica": "1",
+                "Belgium": "4",
+                "Canada": "0",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "0",
+                "South Korea": "1",
+                "Portugal": "3",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "1",
+                "Senegal": "2",
+                "Netherlands": "1",
+                "Ecuador": "1",
+                "England": "2",
+                "USA": "0",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "",
+                "Australia": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "1",
+                "France": "3",
+                "Denmark": "1",
+                "Argentina": "2",
+                "Mexico": "0"
+            }
+        },
+        "Sumil CK": {
+            "MatchDay-1": {
+                "Qatar": "1",
+                "Ecuador": "1",
+                "winner": "NA",
+                "maxGoals": "Qatar vs Equador"
+            },
+            "MatchDay-2": {
+                "England": "3",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "0",
+                "Netherlands": "2",
+                "USA": "1",
+                "Wales": "1",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "4",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "1",
+                "Tunisia": "2",
+                "Mexico": "1",
+                "Poland": "3",
+                "France": "3",
+                "Australia": "1",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "1",
+                "Croatia": "3",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "3",
+                "Japan": "1",
+                "Spain": "2",
+                "Costa Rica": "1",
+                "Belgium": "3",
+                "Canada": "1",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "2",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "2",
+                "South Korea": "1",
+                "Portugal": "3",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-7": {
+                "Tunisia": "0",
+                "Australia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "2",
+                "Soudi Arabia": "1",
+                "France": "2",
+                "Denmark": "0",
+                "Argentina": "1",
+                "Mexico": "1"
+            }
+        },
+        "Nived": {
+            "MatchDay-2": {
+                "England": "2",
+                "Iran": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Senegal": "1",
+                "Netherlands": "2",
+                "USA": "0",
+                "Wales": "0",
+                "maxGoals": "England vs Iran"
+            },
+            "MatchDay-3": {
+                "Argentina": "4",
+                "Soudi Arabia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Denmark": "1",
+                "Tunisia": "0",
+                "Mexico": "2",
+                "Poland": "1",
+                "France": "2",
+                "Australia": "0",
+                "maxGoals": "Argentina vs Soudi Arabia"
+            },
+            "MatchDay-4": {
+                "Morocco": "2",
+                "Croatia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Germany": "2",
+                "Japan": "1",
+                "Spain": "2",
+                "Costa Rica": "1",
+                "Belgium": "3",
+                "Canada": "1",
+                "maxGoals": "Morocco vs Croatia"
+            },
+            "MatchDay-5": {
+                "Switzerland": "1",
+                "Cameroon": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Uruguay": "3",
+                "South Korea": "0",
+                "Portugal": "2",
+                "Ghana": "1",
+                "Brazil": "3",
+                "Serbia": "1",
+                "maxGoals": "Switzerland vs Cameroon"
+            },
+            "MatchDay-6": {
+                "Wales": "1",
+                "Iran": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Qatar": "0",
+                "Senegal": "1",
+                "Netherlands": "2",
+                "Ecuador": "1",
+                "England": "3",
+                "USA": "2",
+                "maxGoals": "Wales vs Iran"
+            },
+            "MatchDay-7": {
+                "Tunisia": "1",
+                "Australia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Poland": "1",
+                "Soudi Arabia": "0",
+                "France": "2",
+                "Denmark": "1",
+                "Argentina": "3",
+                "Mexico": "1"
+            }
+        }
+    }
+}

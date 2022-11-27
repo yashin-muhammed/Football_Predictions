@@ -1,0 +1,22 @@
+extends layout
+
+block content
+  div(class="dashboardTitle") 
+    p(class="usernameDash") Welcome #{username}
+    div(class="topnav-right")
+      a(class="logout" href="/users/logout") Logout
+  div(class="dashboard")
+    div(class="SecDash")
+      div(class="subSecDash")
+        p(class="secTitle") 
+          b 
+            U Leagues
+        div
+          div(class="topnav-right")
+            form(action="../leagues/add")
+              button(class="add" id="add" type="submit" ) +Add
+        div(class="content")
+          ul
+            each val in leagues 
+              li
+                a(class="contentList" href="/leagues/load/"+val.id)=val.leagueName

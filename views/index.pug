@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  div(class="container") 
+    div(class="box")
+      p(id= "welcome") Welcome to 
+      h1= title
+      br
+      form(action='/users' method='GET')
+        button(class="MakePredictBtn" type="submit"  onclick ="/users") Make Your Prediction

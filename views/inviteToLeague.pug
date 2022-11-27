@@ -1,0 +1,21 @@
+extends layout
+
+block content
+  div(class="dashboardTitle") 
+    a(class="" href="/users/home")
+      p(class="usernameDash") Welcome #{username}
+    div(class="topnav-right")
+      a(class="logout" href="/users/logout") Logout
+  div(class="dashboard")
+    div(clas="leagues")
+      div(class="addLeague")
+        p(class="secTitle") 
+          b 
+            a(class="" href="/leagues/load/"+leagueID)= leagueName
+        div
+          table(class="addLeagueTable")
+            tr 
+              th 
+                span League Code
+              td 
+                input(type="text" value=leagueID id="leagueID" readonly)

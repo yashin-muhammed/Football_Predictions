@@ -1,0 +1,26 @@
+extends layout
+
+block content
+  div(class="container") 
+    div(class="box")
+      form(action='/users/login' method='POST' enctype="application/x-www-form-urlencoded")
+        table 
+          tr 
+            th 
+              label(for="email") Email
+            td 
+              input(type="text" name="email" id="email")
+          tr
+            th 
+              label(for="password") Password
+            td 
+              input(type="password" name="password" id="password")
+          tr
+            th 
+            td
+              a(href="/users/register" style="margin-left: 14px; padding:5px") Register
+              span="  "
+              a(href="/users/changepass") Change Password
+        br
+        br
+        button(class="MakePredictBtn" type="submit") Login

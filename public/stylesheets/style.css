@@ -1,0 +1,400 @@
+
+* {
+  margin: 0px; 
+  padding: 0px ; 
+  box-sizing: border-box ; 
+}
+
+body {
+  min-height: 110vh; 
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  /*background-image: url("../images/WC_Background.jpeg");*/
+  background-size: cover;
+  background-color: #d2d8e9;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%; 
+  height: 100%;
+  margin-top: 20%;
+}
+
+
+.dashboardTitle{
+  width: 100%;
+  height: 10%;
+  margin-bottom: 1%;
+  border: 2px solid #220F86;
+  background-color: #220786;
+  overflow: hidden;
+  padding: 1.5%;
+}
+
+.usernameDash{
+  font-weight: 3500;
+  color: white;
+  font-size: 20px;
+  text-shadow: 0 0 13px white, 0 0 25px blue;
+  float: left;
+}
+
+.logout{
+  font-weight: 3500;
+  color: white;
+  font-size: 20px;
+  text-decoration: solid;
+}
+
+.topnav-left {
+  float: left;
+}
+
+.topnav-right {
+  float: right;
+}
+
+.dashboard{
+  width: 45%;
+  height: 100%;
+  margin: 10% auto auto auto;
+  padding:1%;
+  min-height: 600px;
+}
+
+.content{
+  margin-top:50px;
+}
+
+.secTitle{
+  padding-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  color: #220786;
+}
+
+.SecDash {
+  margin: 0.5%;
+  height: auto;
+  min-height: 200px;
+  padding: 2%;
+  border: 2px solid #220786;
+  background-color:whitesmoke;
+  border-radius: 15px;
+}
+
+.add, .back{
+  font-weight: 3000;
+  font-size: 14px;
+  background-color: #220786;
+  height: 30px;
+  padding: 4px;
+  border-radius: 12px;
+  border: none;
+  border: 1px solid currentColor;
+  color: white;
+  overflow: hidden;
+  position: relative;
+  text-decoration: none;
+  transition: .2s transform ease-in-out;
+  will-change: transform;
+  z-index: 0;
+}
+
+.box {
+  width: 500px; 
+  height: 200px;
+  align-items: center;
+}
+
+#winner{
+  background-color: #d2d8e9;
+}
+
+h1{
+  font-weight: 3500;
+  color: #220786;
+  font-size: 44px;
+  text-shadow: 0 0 13px white, 0 0 25px blue;
+  text-align: left;
+}
+
+h2{
+  color: #220786;
+  font-size: 22px;
+  text-shadow: 0 0 13px white, 0 0 25px blue;
+  text-align: left;
+}
+
+#welcome {
+  font-size: 24px;
+  color: black;
+  text-shadow: 0 0 3px white, 0 0 15px blue;
+  text-align: left;
+}
+
+input {
+  size: 25;
+  margin-left: 14px;
+  margin-right: 14px;
+  box-sizing: border-box;
+  width: 328px;
+  height: 30px;
+}
+
+.game {
+  width:22px;
+  height: 22px;
+  margin: 0px;
+  padding:0px;
+  background-color: #d2d8e9;
+}
+
+.gameWeek, .gameWeek2 {
+  margin:auto;
+  min-width: 100%;
+  min-height: 100px;
+  padding: 5px;
+  border-collapse: collapse;
+  background-color:whitesmoke;
+  color:#220786;
+}
+
+.gameWeek2{
+  margin-bottom: 45px;
+}
+
+.align-left{
+  text-align: left;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.align-center{
+  text-align: center;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.align-right{
+  text-align: right;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.align-left2{
+  text-align: left;
+}
+
+.align-right2{
+  text-align: right;
+}
+
+.leagues{
+  width: 99%;
+  padding:1%;
+  height: auto;
+  margin: 2px;
+  border: 2px solid #220786;
+}
+
+.addLeague{
+  padding: 2%;
+  margin: auto auto 20px auto;
+  border: 2px solid #220786;
+  background-color: white;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.MakePredictBtn {
+  /*background-color:#0a01df;*/
+  background-color: #220786;
+  width:  450px;
+  height: 50px;
+  padding: 4px;
+  border-radius: 15px;
+  border: none;
+  font-size: 24px;
+  border: 2px solid currentColor;
+  color: white;
+  overflow: hidden;
+  position: relative;
+  text-decoration: none;
+  transition: .2s transform ease-in-out;
+  will-change: transform;
+  z-index: 0;
+}
+
+.memberName{
+  background-color: #220786;
+  width: 100%;
+  min-height: 35px;
+  color: white;
+  padding: 10px;
+  float: right;
+}
+
+.gwPredictbtn, #join{
+  background-color: #220786;
+  width:  450px;
+  height: 50px;
+  padding: 4px;
+  border-radius: 15px;
+  border: none;
+  font-size: 24px;
+  border: 2px solid currentColor;
+  color: white;
+  overflow: hidden;
+  position: relative;
+  text-decoration: none;
+  transition: .2s transform ease-in-out;
+  will-change: transform;
+  z-index: 0;
+}
+
+.gwPredictbtnDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5%;
+}
+
+button::after {
+    background-color: #d2d8e9;
+    border-radius: 15px;
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translate(-100%, 0) rotate(10deg);
+    transform-origin: top left;
+    transition: .2s transform ease-out;
+    will-change: transform;
+    z-index: -1;
+}
+
+button:hover::after{
+    transform: translate(0, 0);
+}
+button:hover{
+    border: 2px solid transparent;
+    color: indigo;
+    transform: scale(1.05);
+    will-change: transform;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.gw{
+  margin-bottom: 15px;
+  margin-bottom: 15px;
+  padding: 10px 10px;
+  border: 1px solid #220786;
+  /*background-color: #d2d8e9;*/
+}
+
+.gameWeek2 .gw{
+  border-top: none;
+}
+
+li {
+  margin-bottom: 15px;
+  padding: 10px 10px;
+  background-color: #d2d8e9;
+  border: 1px solid #220786;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.contentList{
+  color: #220F86
+}
+
+.gameTable{
+  border-collapse: collapse;
+  counter-reset: rowNumber;
+  width: 100%;;
+  margin-bottom: 25px;
+}
+
+.addLeagueTable{
+  width: 97%;;
+  margin: 35px 10px 35px 10px;
+}
+
+.addLeagueTable tr td{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.addLeagueTable input{
+  width: 95%;
+}
+
+.addLeagueTable2{
+  width: 100%;;
+  margin: 35px 10px 35px 10px;
+}
+
+.addLeagueTable2 tr td{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.addLeagueTable2 input{
+  width: 80%;
+}
+
+.addLeagueTable2 select{
+  margin: 10px 0 10px 35px;
+  width: 80%;
+  height: 30px;
+}
+
+.gameTable tr{
+  color: #220786;
+  border: 1px solid #220786;
+  counter-increment: rowNumber;
+  content: counter(rowNumber) ".";
+}
+
+.gameTable  tr:nth-child(odd) {
+  background-color: #d2d8e9;
+}
+
+.gameTable tr:not(:first-child) {
+  counter-increment: rowNumber;
+}
+.gameTable tr td{
+  padding: 10px;
+  font-stretch: expanded;
+  font-weight: bold
+}
+.gameTable tr td:first-child::before {
+  content: counter(rowNumber);
+  min-width: 1em;
+  margin-right: 1em;
+}
+
+
+.gtUsername{
+  text-decoration:underline;
+}
+
+.gameTable tr .sop{
+  min-width: 1em;
+  padding: 0;
+  margin-left: 0.5em;
+}

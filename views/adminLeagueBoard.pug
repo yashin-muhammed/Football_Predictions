@@ -1,0 +1,29 @@
+extends layout
+
+block content
+  div(class="dashboardTitle") 
+    a(href="/users/home")
+      p(class="usernameDash") Welcome #{username}
+    div(class="topnav-right")
+      a(class="logout" href="/users/logout") Logout
+  div(class="dashboard")
+    div(class="SecDash")
+      div(class="subSecDash")
+        p(class="secTitle") 
+          b 
+            U=leagueName
+        div
+          div(class="topnav-left")
+            form(action="/users/home")
+              button(class="back" id="back" type="submit" ) <- Back
+          div(class="topnav-right")
+            form(action="/leagues/joinleague")
+              button(class="add" id="add" type="submit" ) +Add
+        div(class="content")
+          table(class="gameTable" id="gameTableID")
+            each member in members 
+              tr
+                td(class="gtUsername")
+                  a(class="" href="/fixtures/gameweek/"+member.username+"/"+leagueID)=member.username
+                td(class="gtPoints" align ="right")
+                  p(class="align-right2") #{member.points} (#{member.SpotOnPredictions})

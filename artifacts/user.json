@@ -1,0 +1,265 @@
+{
+    "yashmohd77@footballwc.com": {
+        "id": "b59c4658-dd12-4977-a6fd-a28d7f4277fa",
+        "username": "Muhammed Yashin",
+        "password": "$2b$10$AUTpBeSnWvOgdN3/CyteJewjcUkNLMCSdg4m03J7KV.7X1pDXH.wy",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            },
+            {
+                "id": "181ff0c8-ee95-49e5-85dc-a567d3e64de9",
+                "leagueName": "Saho"
+            }
+        ]
+    },
+    "admin@footballwc.com": {
+        "id": "51207596-3e4c-4264-94e3-a68d06131f43",
+        "username": "Admin",
+        "password": "$2b$10$VrAHOkYMk30BvhEVkc0ItuRBiA4ZOyYRkNVTdCPRb4m4DW31pb5NK",
+        "type": "admin",
+        "leagues": []
+    },
+    "ramzi.rzn@footballwc.com": {
+        "id": "753ed582-6125-46e7-8335-e6e080dd43be",
+        "username": "Ramzeen A V",
+        "password": "$2b$10$OIsFqWsdCRUMRBw5.C.IGew.7skB5hVX7O2Mgo4nnhbNQ8ehfZu7K",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "najeem_naju@footballwc.com": {
+        "id": "e129a18a-f2c2-49a7-a6f6-db60cc0c502a",
+        "username": "Najeem A V",
+        "password": "$2b$10$9n2qNLrT6.Xa5qhpsH3MtOzeyDpnNFN1IHczF9moI28M1.xS3P8Fy",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "nashab_nashu@footballwc.com": {
+        "id": "91d0fd6c-fc49-41f4-880d-7fbaa8404d27",
+        "username": "Nashab",
+        "password": "$2b$10$QtOlmPEbfadn5rI/lF1DKeK.gKqn4jZ8/J105n.Ac.CeoRu1XGkku",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "adarsh@footballwc.com": {
+        "id": "55f2bb70-58d5-42b8-bfd2-e1eaa4f16e4a",
+        "username": "Adarsh",
+        "password": "$2b$10$HiP0MZ0WaHmDIqsDGO/7ReAxIcCgeNy7wv9YgUIzqCL5yKKArY7ty",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "shammas@footballwc.com": {
+        "id": "c00d7f6a-955b-46cb-a55e-90f83ff3bae1",
+        "username": "Shammas",
+        "password": "$2b$10$2RKKtTQKGqiABukD2BXHKefAabwhB2.OsUlxLmAc1QH0I/ecAJ8Tu",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "nazim@footballwc.com": {
+        "id": "cf7f3ece-c5ae-458b-809a-3edc869ec41e",
+        "username": "Nazim Nasar",
+        "password": "$2b$10$oNzu.xuiU2HsMjXZES8jOelapkaNjysiREMtfiF1xA7SEN8ZrtU7G",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "hadi@footballwc.com": {
+        "id": "d900a0c6-09c9-4131-a9a5-fae35c299a05",
+        "username": "Muhammed Hadi",
+        "password": "$2b$10$BSAllmuPAEcC0T1v.rtqi.ZgPXhq.RoTx2oIVZQvd/834LYiQwlca",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "harin@footballwc.com": {
+        "id": "dd15892f-4ab1-4814-a00c-f2995496685a",
+        "username": "Harin Mansoor",
+        "password": "$2b$10$pAgv.KXvKAYAhpXI/MliueA32QtbW4A6oWSOInkKZX5/C3DPe/P.m",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "mikku@footballwc.com": {
+        "id": "f316755a-9797-4c2f-a43f-2ed565c35687",
+        "username": "Miqdad",
+        "password": "$2b$10$3xAFcosAArAwgYWySrswA.ndcn0p5CQukp9oQDic6MgHvCh745usK",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "hamras@footballwc.com": {
+        "id": "2141f215-8118-4684-b551-5fe32c6f6c79",
+        "username": "Hamras",
+        "password": "$2b$10$WUtwYjjXlOgnmYSTRRIP6O4RI4HlZChgXz/9O05tEcd6zb8vk.hJy",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "afsal@footballwc.com": {
+        "id": "e85dbb87-ecd8-4592-8201-e5de115f056c",
+        "username": "Afsal Ali",
+        "password": "$2b$10$.fHxNFnOMhyntkwTuMN7XOsIHNMSco/aeIcGQPntzZVLY06tXu9d.",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "amal@footballwc.com": {
+        "id": "bb12b410-05c0-4500-ba05-572c88f7e8f5",
+        "username": "Amal",
+        "password": "$2b$10$JRbwVHgI8ozVf/pzrfzxhOTxL3zkEuhifZvW.czhx3g0UbaTRSCja",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "sagul@footballwc.com": {
+        "id": "516f12ee-b00e-4db4-a367-c570fb197905",
+        "username": "Sagul",
+        "password": "$2b$10$Hm2Lu47.GQm4gqTdPHs.aeLKYKIG43UZvQuF/cb69AG9PDtVnUQju",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "181ff0c8-ee95-49e5-85dc-a567d3e64de9",
+                "leagueName": "Saho"
+            }
+        ]
+    },
+    "abhi@footballwc.com": {
+        "id": "e661703a-e6fd-42cf-90ce-17b289fa4e6b",
+        "username": "Abhijit C V",
+        "password": "$2b$10$SGlczHk6YmBz3FjkqnYnUOS1fhovrMYRWqfoIjBNtIwPU7wtWchHW",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "181ff0c8-ee95-49e5-85dc-a567d3e64de9",
+                "leagueName": "Saho"
+            }
+        ]
+    },
+    "sumil@footballwc.com": {
+        "id": "68d1d39a-a3cf-4dc8-ac67-aceba963879b",
+        "username": "Sumil CK",
+        "password": "$2b$10$01uA/ut4G2IFjlOAS43N8eXHSW1Z5.6KE9VWo34Mpx9UTsI50VZ1W",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "181ff0c8-ee95-49e5-85dc-a567d3e64de9",
+                "leagueName": "Saho"
+            }
+        ]
+    },
+    "vaishak@footballwc.com": {
+        "id": "c5a259eb-6d68-4cb1-baf4-f9ebf1a3ae0f",
+        "username": "Vaishak",
+        "password": "$2b$10$/uNSlsFSaY9kuxUXzxF4E.ILuFBlIH0SrfMR5TAUhbtkhrkXmP/7S",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "181ff0c8-ee95-49e5-85dc-a567d3e64de9",
+                "leagueName": "Saho"
+            }
+        ]
+    },
+    "hafis@footballwc.com": {
+        "id": "e6173c54-128d-4882-9b46-961c80e53ea4",
+        "username": "Hafis",
+        "password": "$2b$10$3Bh8GzaEsAKLvzh0LnRf2O46Hs8L/es7Wa80aX5lI8C.dNZWsgmJS",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "lathif@footballwc.com": {
+        "id": "29ecefab-ed96-44a1-a544-12078c44db35",
+        "username": "Lathif",
+        "password": "$2b$10$npoNA2e/KELL0NV3/eSomO79N315clOQI9GVrfQMzamK2ZWaQZzKK",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    },
+    "nived@footballwc.com": {
+        "id": "05f8c6a6-d812-4806-a389-768167b1bff5",
+        "username": "Nived",
+        "password": "$2b$10$MeIsnpQh2ojATgLqzTZbSOTh27XTaddOa1n3L66.7RYiGj0bZeDQC",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "181ff0c8-ee95-49e5-85dc-a567d3e64de9",
+                "leagueName": "Saho"
+            }
+        ]
+    },
+    "naeem@footballwc.com": {
+        "id": "fdb42714-7000-474c-8804-3f0be1b3d763",
+        "username": "Naeem",
+        "password": "$2b$10$iiyerHwm87nGLoIWoPMs.eoVkRLTFyGDS41skyZVSUGe.AmX9lxbe",
+        "type": "user",
+        "leagues": [
+            {
+                "id": "49f87be5-8a3b-4668-bb51-1bdd32b3dd3a",
+                "leagueName": "League Of Thrones"
+            }
+        ]
+    }
+}

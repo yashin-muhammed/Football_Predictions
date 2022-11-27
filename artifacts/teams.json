@@ -1,0 +1,130 @@
+{
+    "Argentina": {
+        "id": "Team-0",
+        "iconPath": "./public/images/teamIcons/AR-Argentina.png"
+    },
+    "Australia": {
+        "id": "Team-1",
+        "iconPath": "./public/images/teamIcons/AU-Australia.png"
+    },
+    "Belgium": {
+        "id": "Team-2",
+        "iconPath": "./public/images/teamIcons/BE-Belgium.png"
+    },
+    "Brazil": {
+        "id": "Team-3",
+        "iconPath": "./public/images/teamIcons/BR-Brazil.png"
+    },
+    "Canada": {
+        "id": "Team-4",
+        "iconPath": "./public/images/teamIcons/CA-Canada.png"
+    },
+    "Cameroon": {
+        "id": "Team-5",
+        "iconPath": "./public/images/teamIcons/CM-Cameroon.png"
+    },
+    "Costa Rica": {
+        "id": "Team-6",
+        "iconPath": "./public/images/teamIcons/CO-Costa-rica.png"
+    },
+    "Croatia": {
+        "id": "Team-7",
+        "iconPath": "./public/images/teamIcons/CR-Croatia.png"
+    },
+    "Denmark": {
+        "id": "Team-8",
+        "iconPath": "./public/images/teamIcons/DE-Germany.png"
+    },
+    "England": {
+        "id": "Team-9",
+        "iconPath": "./public/images/teamIcons/EG-England.png"
+    },
+    "Ecuador": {
+        "id": "Team-10",
+        "iconPath": "./public/images/teamIcons/EQ-Equador.png"
+    },
+    "France": {
+        "id": "Team-11",
+        "iconPath": "./public/images/teamIcons/FR-France.png"
+    },
+    "Germany": {
+        "id": "Team-12",
+        "iconPath": "./public/images/teamIcons/GE-Germany.png"
+    },
+    "Ghana": {
+        "id": "Team-13",
+        "iconPath": "./public/images/teamIcons/GH-Ghana.png"
+    },
+    "Iran": {
+        "id": "Team-14",
+        "iconPath": "./public/images/teamIcons/IR-Iran.png"
+    },
+    "Japan": {
+        "id": "Team-15",
+        "iconPath": "./public/images/teamIcons/JP-Japan.png"
+    },
+    "Morocco": {
+        "id": "Team-16",
+        "iconPath": "./public/images/teamIcons/MR-Morocco.png"
+    },
+    "Mexico": {
+        "id": "Team-17",
+        "iconPath": "./public/images/teamIcons/MX-Mexico.png"
+    },
+    "Netherlands": {
+        "id": "Team-18",
+        "iconPath": "./public/images/teamIcons/NL-Netherlands.png"
+    },
+    "Poland": {
+        "id": "Team-19",
+        "iconPath": "./public/images/teamIcons/PL-Poland.png"
+    },
+    "Portugal": {
+        "id": "Team-20",
+        "iconPath": "./public/images/teamIcons/PT-Portugal.png"
+    },
+    "Qatar": {
+        "id": "Team-21",
+        "iconPath": "./public/images/teamIcons/QR-Qatar.png"
+    },
+    "Soudi Arabia": {
+        "id": "Team-22",
+        "iconPath": "./public/images/teamIcons/SA-Saudi-Arabia.png"
+    },
+    "South Korea": {
+        "id": "Team-23",
+        "iconPath": "./public/images/teamIcons/SK-SouthKorea.png"
+    },
+    "Senegal": {
+        "id": "Team-24",
+        "iconPath": "./public/images/teamIcons/SN-Senegal.png"
+    },
+    "Spain": {
+        "id": "Team-25",
+        "iconPath": "./public/images/teamIcons/SP-Spain.png"
+    },
+    "Serbia": {
+        "id": "Team-26",
+        "iconPath": "./public/images/teamIcons/SR-Serbia.png"
+    },
+    "Switzerland": {
+        "id": "Team-27",
+        "iconPath": "./public/images/teamIcons/SW-Switzerland.png"
+    },
+    "Tunisia": {
+        "id": "Team-28",
+        "iconPath": "./public/images/teamIcons/TN-Tunisia.png"
+    },
+    "Uruguay": {
+        "id": "Team-29",
+        "iconPath": "./public/images/teamIcons/UR-Uruguay.png"
+    },
+    "USA": {
+        "id": "Team-30",
+        "iconPath": "./public/images/teamIcons/US-USA.png"
+    },
+    "Wales": {
+        "id": "Team-31",
+        "iconPath": "./public/images/teamIcons/WA-Wales.png"
+    }
+}

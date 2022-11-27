@@ -1,0 +1,51 @@
+extends layout
+
+block content
+  div(class="dashboardTitle") 
+    a(href="/users/home")
+      p(class="usernameDash") Welcome #{username}
+    div(class="topnav-right")
+      a(class="logout" href="/users/logout") Logout
+  div(class="dashboard")
+    div(class="SecDash")
+      div(class="subSecDash")
+        p(class="secTitle") 
+          b 
+            U=matchDay
+        div
+          div(class="topnav-left")
+            form(action="/users/home")
+              button(class="back" id="back" type="submit" ) <- Back
+        div(class="content")
+          form(action='/results/update' method='POST' enctype="application/x-www-form-urlencoded")
+            div(class="memberName")
+              input(type="hidden" name="matchDay" value=matchDay)
+            table(class="gameWeek")
+              each game in activeGWObj 
+                tr(class="gw")
+                  th
+                    p(class="align-right")=game.homeTeam
+                  th
+                    input(type="text" maxlength="2" name=game.homeTeam class="game")
+                  th
+                    p(class="align-center") -
+                  th
+                    input(type="text" maxlength="2" name=game.awayTeam class="game")
+                  th
+                    p(class="align-left")=game.awayTeam
+                  th 
+                    label(for="winner") Winnner:
+                    select(name="winner" id="winner")
+                      option(value="NA" selected) NA
+                      option(value=game.homeTeam)=game.homeTeam
+                      option(value=game.awayTeam)=game.awayTeam
+            //table(class="gameWeek2")
+              tr(class="gw")
+                th
+                  label(for="maxGoals") High Scoring Game:
+                  select(name="maxGoals" id="maxGoals")
+                    each m in Object.keys(activeGWObj)
+                      option(value=m)=m
+            br
+            div(class="gwPredictbtnDiv")
+              button(class="gwPredictbtn" id="gwPredictbtn" type="submit") Update Results

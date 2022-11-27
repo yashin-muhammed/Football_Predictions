@@ -1,0 +1,31 @@
+extends layout
+
+block content
+  div(class="dashboardTitle") 
+    a(class="" href="/users/home")
+      p(class="usernameDash") Welcome #{username}
+    div(class="topnav-right")
+      a(class="logout" href="/users/logout") Logout
+  div(class="dashboard")
+    div(clas="leagues")
+      div(class="addLeague")
+        p(class="secTitle") 
+          b 
+            U Join League
+        div
+          form(action="../leagues/join" method='POST' enctype="application/x-www-form-urlencoded")
+            table(class="addLeagueTable2")
+              tr
+                td 
+                  label(for="leagueID") League Code:
+                  input(type="text" name="leagueID" id="leagueID")
+              tr
+                td
+                  label(for="email") Username:
+                  select(name="email" id="email")
+                    each user in userData
+                      option(value=user.email) #{user.username}
+              tr
+                td 
+                  div(class="gwPredictbtnDiv")
+                    button(class="gwPredictbtn" type="submit" ) Join

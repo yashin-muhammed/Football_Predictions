@@ -1,0 +1,32 @@
+extends layout
+
+block content
+  div(class="container") 
+    div(class="box")
+      form(action='/users/register' method='POST' enctype="application/x-www-form-urlencoded")
+        table 
+          tr 
+            th 
+              label(for="username")  Name
+            td 
+              input(type="text" name="username" id="username")
+          tr 
+            th 
+              label(for="email")  Email
+            td 
+              input(type="text" name="email" id="email")
+          tr
+            th 
+              label(for="password")  Password
+            td 
+              input(type="password" name="password" id="password")
+          tr
+            td 
+              input(type="text" name="type" id="type" value="user" hidden)
+          tr
+            th 
+            td
+              a(href="/users" style="margin-left: 14px; padding:5px") Login
+        br
+        br
+        button(class="MakePredictBtn" type="submit") Register
