@@ -131,8 +131,6 @@ router.post('/login', function(req, res, next) {
   }
 });
 
-
-
 router.get('/home', function(req, res, next) {
   try{
     console.log("Inside home Get Route")

@@ -146,5 +146,75 @@
             "Argentina vs Mexico"
         ],
         "scored": true
+    },
+    "MatchDay-8": {
+        "Japan": "0",
+        "Costa Rica": "1",
+        "winner": [
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        "Belgium": "0",
+        "Morocco": "2",
+        "Croatia": "4",
+        "Canada": "1",
+        "Spain": "1",
+        "Germany": "1",
+        "matches": [
+            "Japan vs Costa Rica",
+            "Belgium vs Morocco",
+            "Croatia vs Canada",
+            "Spain vs Germany"
+        ],
+        "scored": true
+    },
+    "MatchDay-9": {
+        "Cameroon": "3",
+        "Serbia": "3",
+        "winner": [
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        "South Korea": "2",
+        "Ghana": "3",
+        "Brazil": "1",
+        "Switzerland": "0",
+        "Portugal": "2",
+        "Uruguay": "0",
+        "matches": [
+            "Cameroon vs Serbia",
+            "South Korea vs Ghana",
+            "Brazil vs Switzerland",
+            "Portugal vs Uruguay"
+        ],
+        "scored": true
+    },
+    "MatchDay-10": {
+        "Ecuador": "1",
+        "Senegal": "2",
+        "winner": [
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        "Netherlands": "2",
+        "Qatar": "0",
+        "Iran": "0",
+        "USA": "1",
+        "Wales": "0",
+        "England": "3",
+        "matches": [
+            "Ecuador vs Senegal",
+            "Netherlands vs Qatar",
+            "Iran vs USA",
+            "Wales vs England"
+        ]
+    }
+}  "scored": true
     }
 }

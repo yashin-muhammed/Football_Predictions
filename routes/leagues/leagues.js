@@ -4,6 +4,8 @@ var router = express.Router();
 var util = require('util');
 const { create, join, attachLeague, getLeague, getAllLeague } = require('../../controllers/league')
 const { getUser, getAllUser } = require('../../controllers/user')
+const { getAllData } = require('../../controllers/data')
+const { getAllFixtures } = require('../../controllers/fixtures')
 
 /* GET users listing. */
 router.get('/add', function(req, res, next) {
@@ -103,8 +105,18 @@ router.get('/load/:leagueID', function(req, res, next) {
     let leagueData=getLeague(leagueID);
     let leagueName=leagueData.leagueName
     let members=leagueData.members;
+    let matchDay=Object.keys(getAllFixtures())[0];
     members.sort((a,b) => b.points-a.points|| b.SpotOnPredictions-a.SpotOnPredictions);
+    let predData=getAllData();
     
+    for(m in members){
+      if(predData[leagueID][members[m].username][matchDay]){
+        members[m].status="Predicted MD"+matchDay.replace("MatchDay","");
+      }else{
+        members[m].status="Yet to Predict MD"+matchDay.replace("MatchDay","");;
+      }
+    }
+
     console.log("leagueName: "+leagueName)
     console.log("Members: "+members)
     //var user = req.cookies

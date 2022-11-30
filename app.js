@@ -66,7 +66,7 @@ app.use(function(err, req, res, next) {
 });
 
 app.listen(PORT,() =>{
-  console.log(`Server running at http://${hostname}:${PORT}/`);
+  console.log(`Server running at http://localhost:${PORT}/`);
 });
 
 process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;

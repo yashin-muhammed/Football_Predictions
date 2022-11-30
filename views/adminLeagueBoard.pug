@@ -25,5 +25,7 @@ block content
               tr
                 td(class="gtUsername")
                   a(class="" href="/fixtures/gameweek/"+member.username+"/"+leagueID)=member.username
+                td(align="center") 
+                  span(style="color: #9296B8;") #{member.status}
                 td(class="gtPoints" align ="right")
                   p(class="align-right2") #{member.points} (#{member.SpotOnPredictions})

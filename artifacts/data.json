@@ -120,6 +120,38 @@
                 "Canada": "2",
                 "Spain": "1",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "3",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "0",
+                "Ghana": "2",
+                "Brazil": "2",
+                "Switzerland": "1",
+                "Portugal": "1",
+                "Uruguay": "0"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "3",
+                "Qatar": "1",
+                "Iran": "0",
+                "USA": "1",
+                "Wales": "0",
+                "England": "3"
             }
         },
         "Najeem A V": {
@@ -242,6 +274,38 @@
                 "Canada": "0",
                 "Spain": "1",
                 "Germany": "0"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "0",
+                "Ghana": "1",
+                "Brazil": "1",
+                "Switzerland": "0",
+                "Portugal": "2",
+                "Uruguay": "2"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "0",
+                "Wales": "0",
+                "England": "2"
             }
         },
         "Ramzeen A V": {
@@ -364,6 +428,38 @@
                 "Canada": "0",
                 "Spain": "2",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "1",
+                "Brazil": "2",
+                "Switzerland": "0",
+                "Portugal": "2",
+                "Uruguay": "1"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "3",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "0",
+                "England": "3"
             }
         },
         "Nashab": {
@@ -486,6 +582,38 @@
                 "Canada": "0",
                 "Spain": "1",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "1",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "2",
+                "Ghana": "1",
+                "Brazil": "3",
+                "Switzerland": "1",
+                "Portugal": "3",
+                "Uruguay": "1"
+            },
+            "MatchDay-10": {
+                "Ecuador": "3",
+                "Senegal": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "3",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "1",
+                "England": "3"
             }
         },
         "Adarsh": {
@@ -608,6 +736,38 @@
                 "Canada": "0",
                 "Spain": "1",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Switzerland": "0",
+                "Portugal": "2",
+                "Uruguay": "0"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "3",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "0",
+                "England": "2"
             }
         },
         "Shammas": {
@@ -730,6 +890,38 @@
                 "Canada": "0",
                 "Spain": "3",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "",
+                "Serbia": "",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "2",
+                "Ghana": "1",
+                "Brazil": "4",
+                "Switzerland": "1",
+                "Portugal": "1",
+                "Uruguay": "0"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "2",
+                "USA": "1",
+                "Wales": "1",
+                "England": "3"
             }
         },
         "Nazim Nasar": {
@@ -852,6 +1044,38 @@
                 "Canada": "1",
                 "Spain": "2",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "1",
+                "Serbia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "0",
+                "Brazil": "3",
+                "Switzerland": "1",
+                "Portugal": "2",
+                "Uruguay": "1"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "2",
+                "USA": "1",
+                "Wales": "0",
+                "England": "2"
             }
         },
         "Muhammed Hadi": {
@@ -974,6 +1198,38 @@
                 "Canada": "1",
                 "Spain": "0",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "2",
+                "Ghana": "0",
+                "Brazil": "2",
+                "Switzerland": "0",
+                "Portugal": "1",
+                "Uruguay": "2"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "1",
+                "Qatar": "0",
+                "Iran": "2",
+                "USA": "3",
+                "Wales": "0",
+                "England": "2"
             }
         },
         "Harin Mansoor": {
@@ -1096,6 +1352,38 @@
                 "Canada": "0",
                 "Spain": "3",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "1",
+                "Serbia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "0",
+                "Brazil": "2",
+                "Switzerland": "0",
+                "Portugal": "2",
+                "Uruguay": "0"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "1",
+                "Wales": "0",
+                "England": "2"
             }
         },
         "Miqdad": {
@@ -1218,6 +1506,38 @@
                 "Canada": "3",
                 "Spain": "2",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "0",
+                "Brazil": "1",
+                "Switzerland": "0",
+                "Portugal": "3",
+                "Uruguay": "0"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "4",
+                "Qatar": "1",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "0",
+                "England": "2"
             }
         },
         "Hamras": {
@@ -1340,6 +1660,38 @@
                 "Canada": "1",
                 "Spain": "3",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "1",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "2",
+                "Brazil": "3",
+                "Switzerland": "0",
+                "Portugal": "1",
+                "Uruguay": "2"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "1",
+                "Wales": "1",
+                "England": "3"
             }
         },
         "Afsal Ali": {
@@ -1462,6 +1814,38 @@
                 "Canada": "2",
                 "Spain": "3",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "0",
+                "Ghana": "1",
+                "Brazil": "1",
+                "Switzerland": "0",
+                "Portugal": "2",
+                "Uruguay": "0"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "2",
+                "USA": "1",
+                "Wales": "0",
+                "England": "2"
             }
         },
         "Amal": {
@@ -1584,6 +1968,38 @@
                 "Canada": "0",
                 "Spain": "1",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "1",
+                "Brazil": "3",
+                "Switzerland": "0",
+                "Portugal": "1",
+                "Uruguay": "2"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "3",
+                "Qatar": "0",
+                "Iran": "0",
+                "USA": "2",
+                "Wales": "0",
+                "England": "3"
             }
         },
         "Hafis": {
@@ -1700,6 +2116,38 @@
                 "Canada": "0",
                 "Spain": "2",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "1",
+                "Serbia": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "1",
+                "Brazil": "2",
+                "Switzerland": "0",
+                "Portugal": "2",
+                "Uruguay": "2"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "3",
+                "Qatar": "0",
+                "Iran": "2",
+                "USA": "0",
+                "Wales": "0",
+                "England": "1"
             }
         },
         "Lathif": {
@@ -1799,6 +2247,38 @@
                 "Canada": "0",
                 "Spain": "3",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "2",
+                "Brazil": "2",
+                "Switzerland": "1",
+                "Portugal": "2",
+                "Uruguay": "2"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "3",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "1",
+                "England": "3"
             }
         },
         "Naeem": {
@@ -1899,6 +2379,22 @@
                 "Denmark": "1",
                 "Argentina": "2",
                 "Mexico": "1"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "0",
+                "Wales": "0",
+                "England": "2"
             }
         }
     },
@@ -2023,6 +2519,38 @@
                 "Canada": "1",
                 "Spain": "1",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "0",
+                "Ghana": "2",
+                "Brazil": "3",
+                "Switzerland": "1",
+                "Portugal": "1",
+                "Uruguay": "1"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "1",
+                "Iran": "2",
+                "USA": "0",
+                "Wales": "1",
+                "England": "3"
             }
         },
         "Muhammed Yashin": {
@@ -2145,6 +2673,38 @@
                 "Canada": "2",
                 "Spain": "1",
                 "Germany": "0"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "0",
+                "Ghana": "3",
+                "Brazil": "1",
+                "Switzerland": "0",
+                "Portugal": "2",
+                "Uruguay": "0"
+            },
+            "MatchDay-10": {
+                "Ecuador": "0",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "1",
+                "England": "3"
             }
         },
         "Sagul": {
@@ -2267,6 +2827,38 @@
                 "Canada": "0",
                 "Spain": "2",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "2",
+                "Brazil": "3",
+                "Switzerland": "1",
+                "Portugal": "1",
+                "Uruguay": "2"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "0",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "3",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "1",
+                "England": "3"
             }
         },
         "Abhijit C V": {
@@ -2389,6 +2981,38 @@
                 "Canada": "0",
                 "Spain": "0",
                 "Germany": "1"
+            },
+            "MatchDay-9": {
+                "Cameroon": "1",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "2",
+                "Brazil": "2",
+                "Switzerland": "1",
+                "Portugal": "2",
+                "Uruguay": "1"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "1",
+                "Qatar": "0",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "0",
+                "England": "2"
             }
         },
         "Sumil CK": {
@@ -2494,6 +3118,38 @@
                 "Canada": "1",
                 "Spain": "1",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "1",
+                "Serbia": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "0",
+                "Ghana": "2",
+                "Brazil": "2",
+                "Switzerland": "1",
+                "Portugal": "2",
+                "Uruguay": "1"
+            },
+            "MatchDay-10": {
+                "Ecuador": "1",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "1",
+                "Qatar": "1",
+                "Iran": "1",
+                "USA": "2",
+                "Wales": "1",
+                "England": "4"
             }
         },
         "Nived": {
@@ -2610,6 +3266,38 @@
                 "Canada": "1",
                 "Spain": "2",
                 "Germany": "2"
+            },
+            "MatchDay-9": {
+                "Cameroon": "0",
+                "Serbia": "2",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "South Korea": "1",
+                "Ghana": "2",
+                "Brazil": "2",
+                "Switzerland": "1",
+                "Portugal": "2",
+                "Uruguay": "2"
+            },
+            "MatchDay-10": {
+                "Ecuador": "2",
+                "Senegal": "1",
+                "winner": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "Netherlands": "2",
+                "Qatar": "0",
+                "Iran": "0",
+                "USA": "1",
+                "Wales": "1",
+                "England": "2"
             }
         }
     }
